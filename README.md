@@ -1,2 +1,2 @@
-# puzzlle1
+# hw1
 P&amp;E Homework 1
