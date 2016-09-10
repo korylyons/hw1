@@ -1,0 +1,18 @@
+function repeatRight(total) {
+  var count = 0;
+  while (count < total) {
+    right();
+    count = count + 1;
+  }
+}
+
+repeatDown(2);
+while (getColor() == "yellow") {
+  repeatRight(2);
+}
+repeatDown(3);
+setColor("yellow");
+while (getColor() == "yellow") {
+  repeatRight(2);
+}
+up();
