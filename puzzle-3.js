@@ -45,3 +45,6 @@ repeatRight(2);
 repeatUp(5);
 repeatLeft(5);
 repeatDown(4);
+
+//var color = getColor();
+//^^^^^^^ HOW TO DEFINE VARIABLES
